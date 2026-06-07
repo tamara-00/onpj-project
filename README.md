@@ -137,7 +137,9 @@ cd onpj-project
 # Same Task, Different Text: LLM Robustness to Instruction Variations
 
 > Project for the **Natural Language Processing (NLP)** course
+> 
 > Mentor: Prof. Sonja Gievska
+> 
 > Students: Tamara Stojanoska (231030), Dona Kostik (231195), Mila Nedanovska (231106)
 
 ---
